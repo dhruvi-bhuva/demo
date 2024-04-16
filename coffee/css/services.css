@@ -1,0 +1,61 @@
+*{
+    font-family: 'Kanit', sans-serif;
+}
+.p-50{
+    padding-top: 50px;
+}
+.m-50{
+    margin-top: 50px;
+}
+.pb-50{
+    padding-bottom: 50px;
+}
+.color{
+    color:#c0aa83;
+}
+.h5{
+    font-size: 24px;
+}
+.header{
+    font-size: 60px;
+    font-weight: 700;
+}
+.btn-main{
+    background: #c0aa83;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+}
+.btn-main:hover{
+    background: #fff;
+    color: #000;
+    border: 1px solid #000;
+}
+.btn-sale{
+    padding: 10px 20px;
+}
+.p{
+    font-size: 16px;
+}
+.d-flex{
+    width: 30%;
+}
+.date{
+    font-size: 30px;
+}
+.float-start,.float-end{
+    background: #c0aa83;
+}
+.offer{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.choose-bg{
+    background-image: url("../img/bg-table.jpg");
+    background-size: cover;
+}
+.f-60{
+    font-size: 60px;
+    font-weight: 700;
+}
